@@ -1,10 +1,8 @@
-# anurag
 A great resume:
 Grabs the attention of employers and recruiters
 Sells your strongest skills and accomplishments
 Shows how you’re a match for a position or project
-And most importantly, gets you a job interview!
-
+And most importantly, gets you a job interview!.
 Tag used in this project
 <!DOCTYPE> 	Defines the document type
 <html>	Defines an HTML document
